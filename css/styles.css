@@ -10,8 +10,6 @@ a {
 }
 
 .visually-hidden {
-    width: 1px;
-    height: 1px;
     white-space: nowrap;
     clip-path: inset(100%);
     overflow: hidden;
